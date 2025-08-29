@@ -53,7 +53,7 @@ The solution follows industry-standard **Bronze-Silver-Gold** layered architectu
 
 ### **Data Flow & Integration**
 
-![Data Flow](/docs/ext_data_flow_diagram.jpg)
+![Data Flow](/documents/ext_data_flow_diagram.jpg)
 
 **Source System Integration:**
 - **CRM System:** Customer information, product details, sales transactions
@@ -66,7 +66,7 @@ The solution follows industry-standard **Bronze-Silver-Gold** layered architectu
 
 ### **Star Schema Implementation**
 
-![Star Schema](/docs/data_model.jpg)
+![Star Schema](/documents/data_model.jpg)
 
 **Dimensional Model Design:**
 - **Fact Table:** `gold.fact_sales` - Core sales transactions and metrics
