@@ -29,7 +29,7 @@ This infrastructure enables analysts to focus on generating insights rather than
 
 ### **Medallion Architecture Implementation**
 
-![Data Architecture](docs/data_architecture.png)
+![Data Architecture](/docs/data_architecture.png)
 
 The solution follows industry-standard **Bronze-Silver-Gold** layered architecture:
 
@@ -53,7 +53,7 @@ The solution follows industry-standard **Bronze-Silver-Gold** layered architectu
 
 ### **Data Flow & Integration**
 
-![Data Flow](docs/ext_data_flow_diagram.jpg)
+![Data Flow](/docs/ext_data_flow_diagram.jpg)
 
 **Source System Integration:**
 - **CRM System:** Customer information, product details, sales transactions
@@ -66,7 +66,7 @@ The solution follows industry-standard **Bronze-Silver-Gold** layered architectu
 
 ### **Star Schema Implementation**
 
-![Star Schema](docs/data/model.jpg)
+![Star Schema](/docs/data_model.jpg)
 
 **Dimensional Model Design:**
 - **Fact Table:** `gold.fact_sales` - Core sales transactions and metrics
