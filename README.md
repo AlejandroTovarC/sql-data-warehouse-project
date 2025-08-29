@@ -29,7 +29,7 @@ This infrastructure enables analysts to focus on generating insights rather than
 
 ### **Medallion Architecture Implementation**
 
-![Data Architecture](/docs/data_architecture.png)
+![Data Architecture](/documents/Data_Architecture.jpg)
 
 The solution follows industry-standard **Bronze-Silver-Gold** layered architecture:
 
