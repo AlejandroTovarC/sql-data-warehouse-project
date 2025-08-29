@@ -82,7 +82,7 @@ The solution follows industry-standard **Bronze-Silver-Gold** layered architectu
 
 ### **Data Integration Strategy**
 
-![Data Integration](documents/Integration Model (final).jpg)
+![Data Integration](/documents/Integration_Model.jpg)
 
 **Cross-System Linkage:**
 - Customer data merged from both CRM and ERP systems
